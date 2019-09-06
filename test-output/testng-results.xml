@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="177" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="177" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+      <class name="testNG_SamplePackage_2.TestClass1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="beforeSuite" is-config="true" duration-ms="47" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="beforeTest" is-config="true" duration-ms="2" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="doBeforeClass()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeClass" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeClass -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeMethod" is-config="true" duration-ms="2" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:-1, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="test3" duration-ms="23" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterMethod" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeMethod" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="test1" duration-ms="5" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterMethod" is-config="true" duration-ms="2" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeMethod" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="unitLevel1()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="unitLevel1" duration-ms="7" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unitLevel1 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterMethod" is-config="true" duration-ms="4" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeMethod" is-config="true" duration-ms="0" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="unitLevel2()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="unitLevel2" duration-ms="5" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unitLevel2 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterMethod" is-config="true" duration-ms="2" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doBeforeMethod" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="test2" duration-ms="7" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterMethod" is-config="true" duration-ms="0" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+        <test-method status="PASS" signature="doAfterClass()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="doAfterClass" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest1()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="afterTest1" is-config="true" duration-ms="2" started-at="2019-08-28T19:57:17Z" depends-on-methods="testNG_SamplePackage_2.TestClass1.afterTest" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest1 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testNG_SamplePackage_2.TestClass1@4501b7af]" name="afterSuite" is-config="true" duration-ms="4" started-at="2019-08-28T19:57:17Z" finished-at="2019-08-28T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNG_SamplePackage_2.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

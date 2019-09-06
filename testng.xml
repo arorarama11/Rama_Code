@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rama_Suite">
+
+	<test thread-count="5" name="Rama_Test">
+
+		<classes>
+			<class name="testNG_SamplePackage.TestNgClass" />
+			<class name="testNG_SamplePackage.TestNgClass1" />
+		</classes>
+
+	</test> <!-- Rama_Test -->
+
+	<!-- <test thread-count="5" name="Rama_Test1">
+	   <parameter name="sampleparam" value="rama_parameter"/>
+		<classes>
+			<class name="testNG_SamplePackage_1.TestNgClass2" />
+			<class name="testNG_SamplePackage_1.TestNgClass3" />
+		</classes>
+
+	</test> Rama_Test -->
+</suite> <!-- Rama_Suite -->
